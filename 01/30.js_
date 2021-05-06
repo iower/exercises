@@ -1,0 +1,11 @@
+/*
+2 ** 4 = 16
+2 ** 6 = 64
+2 ** 15 = 32768
+*/
+
+const a = 2
+
+console.log(a * a )// 2 multiplications
+// 3 multiplications
+// 5 multiplications
